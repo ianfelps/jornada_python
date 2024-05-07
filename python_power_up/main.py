@@ -51,7 +51,7 @@ for linha in tabela.index:
     pyautogui.press("tab")
     # verificar se a linha possui uma observação
     obs = tabela.loc[linha, "obs"]
-    if not pd.isna(obs):
+    if obs != "nan":
         pyautogui.write(str(tabela.loc[linha, "obs"]))
     pyautogui.press("tab")
     # enviar o formulário
