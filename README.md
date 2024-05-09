@@ -7,7 +7,7 @@
 <p>Projeto de análise de dados para analisar e verificar os principais motivos de cancelamentos em uma empresa.</p>
 
 <h3>Aula 3 - Python IA</h3>
-<p>Projeto...</p>
+<p>Projeto de inteligência artificial e previsões a partir de uma base de dados.</p>
 
 <h3>Aula 4 - Python Dev</h3>
 <p>Projeto...</p>
