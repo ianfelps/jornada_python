@@ -10,7 +10,7 @@
 <p>Projeto de inteligência artificial e previsões a partir de uma base de dados.</p>
 
 <h3>Aula 4 - Python Dev</h3>
-<p>Projeto de criação de um site ou sistema, expecificamente um chat ao vivo.</p>
+<p>Projeto de criação de um site ou sistema, especificamente um chat ao vivo.</p>
 
 <hr>
 <h4>Evento ocorreu em maio de 2024</h4>
