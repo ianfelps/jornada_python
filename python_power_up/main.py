@@ -28,7 +28,7 @@ time.sleep(2)
 
 # abrir e importar a base de dados
 tabela = pd.read_csv("produtos.csv")
-# print(base_de_dados)
+# print(tabela)
 
 # cadastrar os produtos
 for linha in tabela.index:
